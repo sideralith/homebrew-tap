@@ -1,8 +1,8 @@
 class Drydock < Formula
   desc "Containerized Claude Code workspace with credential isolation"
   homepage "https://github.com/sideralith/drydock"
-  url "https://github.com/sideralith/drydock/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "782b45d5e1b87c567255485c381b96c2ea4a6e11f2356221d8909d7ad9410bb7"
+  url "https://github.com/sideralith/drydock/archive/refs/tags/v0.3.3.tar.gz"
+  sha256 "cf6242bc0a641fd83e24d7cf793c3bae3edc3ee554c95edc44895082a3531e15"
   license "MIT"
   head "https://github.com/sideralith/drydock.git", branch: "main"
 
